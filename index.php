@@ -7,6 +7,7 @@ print_r($_POST);
     <head></head>
     <body>
         Hello to you my friend.
+        My name is ...
         <?php include 'form1.php'; ?>
     </body>
 </html>
